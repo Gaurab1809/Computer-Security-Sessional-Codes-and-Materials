@@ -76,9 +76,8 @@ Replace AES.c with any other file to run a different algorithm.
 
 Special thanks to:
 
-### *Ashrafun Zannat Ma'am (Assistant Professor)*
-
-### *Alifa Shanzidah Manarat Ma'am (Lecturer)*
+- #### *Ashrafun Zannat Ma'am (Assistant Professor)*
+- #### *Alifa Shanzidah Manarat Ma'am (Lecturer)*
 
 for their continuous guidance, support, and instruction throughout the CSE 4102 – Computer Security Sessional course.
 

@@ -63,15 +63,13 @@ CSE-4102-Computer-Security-Sessional/
 --- 
 ## 🛠️ How to Run the Programs
 
-Install a C compiler (e.g., GCC).
+1. Install a C compiler (e.g., GCC).  
+2. Open a terminal inside the project directory.  
+3. Compile any file. Example:
 
-Open a terminal inside the project directory.
-
-Compile any file. Example:
-
-gcc AES.c -o aes
-./aes
-``
+   ```bash
+   gcc AES.c -o aes
+   ./aes
 Replace AES.c with any other file to run a different algorithm.
 
 ## 🙏 Acknowledgment

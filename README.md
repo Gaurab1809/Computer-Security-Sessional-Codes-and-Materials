@@ -12,7 +12,7 @@ This repository contains all of my implementations, experiments, and reports for
 
 > **CSE 4102 – Computer Security Sessional**  
 > Level 4 • Term I  
-> Department of Computer Science & Engineering  
+> Department of Computer Science & Engineering (CSE) 
 
 ### 👩‍🏫 Course Instructors
 - **Ashrafun Zannat Ma'am (Assistant Professor)**  
